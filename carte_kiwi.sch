@@ -150,9 +150,9 @@ F 3 "" H 2500 6850 50  0000 C CNN
 	1    0    0    -1  
 $EndComp
 Text GLabel 10100 800  2    60   Input ~ 0
-USART1_TX/SDA
+USART1_TX/SCL
 Text GLabel 10100 900  2    60   Input ~ 0
-USART1_RX/SCL
+USART1_RX/SDA
 Text GLabel 4650 3400 0    60   Input ~ 0
 STATUS_LED
 Text GLabel 5800 6450 1    60   Input ~ 0
@@ -1142,8 +1142,8 @@ Text GLabel 5250 4500 3    60   Input ~ 0
 NC
 Text GLabel 5350 4500 3    60   Input ~ 0
 NC
-Text GLabel 7950 5750 1    60   Input ~ 0
-NC
+Text GLabel 7950 5750 1    60   UnSpc ~ 0
+NC/GND
 $Comp
 L GND #PWR043
 U 1 1 589D2058
