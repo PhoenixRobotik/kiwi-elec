@@ -72,3 +72,4 @@ LibName31=Microchip
 LibName32=Panchip
 LibName33=PhoenixRobotik
 LibName34=STMicroelectronics
+LibName35=switches
