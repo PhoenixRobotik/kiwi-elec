@@ -153,7 +153,7 @@ Text GLabel 10100 800  2    60   Input ~ 0
 USART1_TX/SCL
 Text GLabel 10100 900  2    60   Input ~ 0
 USART1_RX/SDA
-Text GLabel 4650 3400 0    60   Input ~ 0
+Text GLabel 4650 3500 0    60   Input ~ 0
 STATUS_LED
 Text GLabel 5800 6450 1    60   Input ~ 0
 STATUS_LED
@@ -934,7 +934,7 @@ F 3 "" H 5400 7300 50  0000 C CNN
 $EndComp
 Wire Wire Line
 	5400 6600 5400 6450
-Text GLabel 4650 3500 0    60   Input ~ 0
+Text GLabel 4650 3400 0    60   Input ~ 0
 ACTIVITY_LED
 Wire Wire Line
 	3700 3700 3700 3650
@@ -1142,8 +1142,6 @@ Text GLabel 5250 4500 3    60   Input ~ 0
 NC
 Text GLabel 5350 4500 3    60   Input ~ 0
 NC
-Text GLabel 7950 5750 1    60   UnSpc ~ 0
-NC/GND
 $Comp
 L GND #PWR043
 U 1 1 589D2058
@@ -1396,4 +1394,9 @@ Text Notes 3600 5250 0    60   ~ 0
 Decoupling capacitor analog
 Text Notes 6350 2200 0    60   ~ 0
 Decoupling capacitor digital
+Text GLabel 7950 5750 1    60   Input ~ 0
+NC
+Text GLabel 7950 5800 2    60   Input ~ 0
+GND
+Connection ~ 7950 5800
 $EndSCHEMATC
