@@ -1,0 +1,1 @@
+- add pull-up resistor on hall effect sensor
