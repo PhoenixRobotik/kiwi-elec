@@ -1,4 +1,4 @@
-update=mer. 08 févr. 2017 03:03:47 CET
+update=mer. 23 mai 2018 17:27:11 CEST
 version=1
 last_client=kicad
 [pcbnew]
@@ -36,40 +36,4 @@ SpiceAjustPassiveValues=0
 LabSize=60
 [eeschema]
 version=1
-LibDir=../component-libraries
-[eeschema/libraries]
-LibName1=74xx
-LibName2=adc-dac
-LibName3=analog_switches
-LibName4=atmel
-LibName5=audio
-LibName6=cmos4000
-LibName7=conn
-LibName8=contrib
-LibName9=cypress
-LibName10=device
-LibName11=digital-audio
-LibName12=display
-LibName13=dsp
-LibName14=intel
-LibName15=interface
-LibName16=linear
-LibName17=memory
-LibName18=microchip
-LibName19=microcontrollers
-LibName20=motorola
-LibName21=opto
-LibName22=philips
-LibName23=power
-LibName24=regul
-LibName25=siliconi
-LibName26=texas
-LibName27=transistors
-LibName28=valves
-LibName29=xilinx
-LibName30=Infineon
-LibName31=Microchip
-LibName32=Panchip
-LibName33=PhoenixRobotik
-LibName34=STMicroelectronics
-LibName35=switches
+LibDir=
